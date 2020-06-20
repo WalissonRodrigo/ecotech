@@ -20,4 +20,4 @@ php artisan serve
 
 ## referências e documentações
 
-> Laravel [https://laravel.com/docs/5.6/installation](https://laravel.com/docs/5.5/installation)
+> Laravel [https://laravel.com/docs/5.6/installation](https://laravel.com/docs/5.6/installation)
